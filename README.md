@@ -7,7 +7,8 @@
 * 'git commit -m 'message' - commit changes to local repo
 
 
-## Basic bBanching
-git checkout branchName
+## Basic Branching
+* git checkout branchName
 
-git branch branchName - create local branch
+* git branch branchName - create local branch
+* 'git branch' - display local branches in which we are in 
